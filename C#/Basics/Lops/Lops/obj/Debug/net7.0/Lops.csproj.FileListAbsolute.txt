@@ -1,0 +1,15 @@
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\bin\Debug\net7.0\Lops.exe
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\bin\Debug\net7.0\Lops.deps.json
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\bin\Debug\net7.0\Lops.runtimeconfig.json
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\bin\Debug\net7.0\Lops.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\bin\Debug\net7.0\Lops.pdb
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\obj\Debug\net7.0\Lops.csproj.AssemblyReference.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\obj\Debug\net7.0\Lops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\obj\Debug\net7.0\Lops.AssemblyInfoInputs.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\obj\Debug\net7.0\Lops.AssemblyInfo.cs
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\obj\Debug\net7.0\Lops.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\obj\Debug\net7.0\Lops.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\obj\Debug\net7.0\refint\Lops.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\obj\Debug\net7.0\Lops.pdb
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\obj\Debug\net7.0\Lops.genruntimeconfig.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\Basics\Lops\Lops\obj\Debug\net7.0\ref\Lops.dll
