@@ -1,0 +1,15 @@
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\bin\Debug\net7.0\ArithmeticOperationsWithLoops.exe
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\bin\Debug\net7.0\ArithmeticOperationsWithLoops.deps.json
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\bin\Debug\net7.0\ArithmeticOperationsWithLoops.runtimeconfig.json
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\bin\Debug\net7.0\ArithmeticOperationsWithLoops.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\bin\Debug\net7.0\ArithmeticOperationsWithLoops.pdb
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\obj\Debug\net7.0\ArithmeticOperationsWithLoops.csproj.AssemblyReference.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\obj\Debug\net7.0\ArithmeticOperationsWithLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\obj\Debug\net7.0\ArithmeticOperationsWithLoops.AssemblyInfoInputs.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\obj\Debug\net7.0\ArithmeticOperationsWithLoops.AssemblyInfo.cs
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\obj\Debug\net7.0\ArithmeticOperationsWithLoops.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\obj\Debug\net7.0\ArithmeticOperationsWithLoops.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\obj\Debug\net7.0\refint\ArithmeticOperationsWithLoops.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\obj\Debug\net7.0\ArithmeticOperationsWithLoops.pdb
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\obj\Debug\net7.0\ArithmeticOperationsWithLoops.genruntimeconfig.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\ArithmeticOperationsWithLoops\ArithmeticOperationsWithLoops\obj\Debug\net7.0\ref\ArithmeticOperationsWithLoops.dll
