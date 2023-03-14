@@ -1,0 +1,15 @@
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\bin\Debug\net7.0\Encapsulation.exe
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\bin\Debug\net7.0\Encapsulation.deps.json
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\bin\Debug\net7.0\Encapsulation.runtimeconfig.json
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\bin\Debug\net7.0\Encapsulation.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\bin\Debug\net7.0\Encapsulation.pdb
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\obj\Debug\net7.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfo.cs
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\obj\Debug\net7.0\Encapsulation.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\obj\Debug\net7.0\refint\Encapsulation.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\obj\Debug\net7.0\Encapsulation.pdb
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\obj\Debug\net7.0\Encapsulation.genruntimeconfig.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\OOPOverview\Encapsulation\obj\Debug\net7.0\ref\Encapsulation.dll
