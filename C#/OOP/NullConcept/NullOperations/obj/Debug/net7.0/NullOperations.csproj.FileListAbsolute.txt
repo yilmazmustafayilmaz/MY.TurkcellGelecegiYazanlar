@@ -1,0 +1,15 @@
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\bin\Debug\net7.0\NullOperations.exe
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\bin\Debug\net7.0\NullOperations.deps.json
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\bin\Debug\net7.0\NullOperations.runtimeconfig.json
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\bin\Debug\net7.0\NullOperations.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\bin\Debug\net7.0\NullOperations.pdb
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\obj\Debug\net7.0\NullOperations.csproj.AssemblyReference.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\obj\Debug\net7.0\NullOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\obj\Debug\net7.0\NullOperations.AssemblyInfoInputs.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\obj\Debug\net7.0\NullOperations.AssemblyInfo.cs
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\obj\Debug\net7.0\NullOperations.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\obj\Debug\net7.0\NullOperations.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\obj\Debug\net7.0\refint\NullOperations.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\obj\Debug\net7.0\NullOperations.pdb
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\obj\Debug\net7.0\NullOperations.genruntimeconfig.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\C#\OOP\NullConcept\NullOperations\obj\Debug\net7.0\ref\NullOperations.dll
