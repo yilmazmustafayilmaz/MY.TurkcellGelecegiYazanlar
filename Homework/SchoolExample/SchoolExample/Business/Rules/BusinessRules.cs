@@ -4,11 +4,12 @@ using SchoolExample.Core.Repositories;
 
 namespace SchoolExample.Business.Rules;
 
-public class BusinessRules<TEntity> where TEntity : BaseEntity
+public class BusinessRules<TEntity> : IBusinessRules<TEntity> where TEntity : BaseEntity
 {
     IBaseRepository<TEntity> _repository;
     public BusinessRules(IBaseRepository<TEntity> repository)
         => _repository = repository;
+
     public void NotFound(int Id)
     {
         var result = _repository.GetByFilter(x => x.Id == Id);

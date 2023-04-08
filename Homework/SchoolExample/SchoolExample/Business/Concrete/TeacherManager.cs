@@ -4,7 +4,6 @@ using SchoolExample.Business.Rules;
 using SchoolExample.Core.Results;
 using SchoolExample.Entities;
 using SchoolExample.Repositories.Abstract;
-using System.Collections;
 using System.Linq.Expressions;
 
 namespace SchoolExample.Business.Concrete;
@@ -12,11 +11,11 @@ namespace SchoolExample.Business.Concrete;
 public class TeacherManager : ITeacherService
 {
     ITeacherRepository _teacherRepository;
-    BusinessRules<Teacher> _businessRules;
-    public TeacherManager(ITeacherRepository teacherRepository)
+    IBusinessRules<Teacher> _businessRules;
+    public TeacherManager(ITeacherRepository teacherRepository, IBusinessRules<Teacher> businessRules)
     {
         _teacherRepository = teacherRepository;
-        _businessRules = new BusinessRules<Teacher>(_teacherRepository);
+        _businessRules = businessRules;
     }
     public IResult Add(Teacher entity)
     {

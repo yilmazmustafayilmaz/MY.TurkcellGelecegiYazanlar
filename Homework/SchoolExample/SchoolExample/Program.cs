@@ -1,12 +1,21 @@
 ﻿using SchoolExample.Business.Concrete;
+using SchoolExample.Business.Rules;
 using SchoolExample.Entities;
 using SchoolExample.Repositories.Concrete;
 
-TeacherManager teacherManager = new(teacherRepository: new TeacherRepository());
+TeacherRepository teacherRepository = new();
+TeacherManager teacherManager = new(teacherRepository: teacherRepository,
+           businessRules: new BusinessRules<Teacher>(teacherRepository));
 Teacher teacher = new();
-StudentManager studentManager = new(studentRepository: new StudentRepository());
+
+StudentRepository studentRepository = new();
+StudentManager studentManager = new(studentRepository: studentRepository,
+           businessRules: new BusinessRules<Student>(studentRepository));
 Student student = new();
-ClassroomManager classroomManager = new(classroomRepository: new ClassroomRepository());
+
+ClassroomRepository classroomRepository = new();
+ClassroomManager classroomManager = new(classroomRepository: classroomRepository,
+                businessRules: new BusinessRules<Classroom>(classroomRepository));
 Classroom classroom = new();
 
 bool start = true;

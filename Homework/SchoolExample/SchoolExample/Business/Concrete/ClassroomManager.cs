@@ -11,11 +11,11 @@ namespace SchoolExample.Business.Concrete;
 public class ClassroomManager : IClassroomService
 {
     IClassroomRepository _classroomRepository;
-    BusinessRules<Classroom> _businessRules;
-    public ClassroomManager(IClassroomRepository classroomRepository)
+    IBusinessRules<Classroom> _businessRules;
+    public ClassroomManager(IClassroomRepository classroomRepository, IBusinessRules<Classroom> businessRules)
     {
         _classroomRepository = classroomRepository;
-        _businessRules = new BusinessRules<Classroom>(_classroomRepository);
+        _businessRules = businessRules;
     }
     public IResult Add(Classroom entity)
     {

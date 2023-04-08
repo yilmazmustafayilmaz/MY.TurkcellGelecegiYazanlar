@@ -1,7 +1,6 @@
 ﻿using SchoolExample.Business.Abstract;
 using SchoolExample.Business.Constants;
 using SchoolExample.Business.Rules;
-using SchoolExample.Core.Repositories;
 using SchoolExample.Core.Results;
 using SchoolExample.Entities;
 using SchoolExample.Repositories.Abstract;
@@ -12,11 +11,11 @@ namespace SchoolExample.Business.Concrete;
 public class StudentManager : IStudentService
 {
     IStudentRepository _studentRepository;
-    BusinessRules<Student> _businessRules;
-    public StudentManager(IStudentRepository studentRepository)
+    IBusinessRules<Student> _businessRules;
+    public StudentManager(IStudentRepository studentRepository, IBusinessRules<Student> businessRules)
     {
         _studentRepository = studentRepository;
-        _businessRules = new BusinessRules<Student>(_studentRepository);
+        _businessRules = businessRules;
     }
     public IResult Add(Student entity)
     {
