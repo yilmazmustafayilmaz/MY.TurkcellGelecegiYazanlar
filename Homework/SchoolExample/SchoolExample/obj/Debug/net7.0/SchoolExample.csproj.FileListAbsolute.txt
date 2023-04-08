@@ -1,0 +1,15 @@
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\bin\Debug\net7.0\SchoolExample.exe
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\bin\Debug\net7.0\SchoolExample.deps.json
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\bin\Debug\net7.0\SchoolExample.runtimeconfig.json
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\bin\Debug\net7.0\SchoolExample.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\bin\Debug\net7.0\SchoolExample.pdb
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\obj\Debug\net7.0\SchoolExample.csproj.AssemblyReference.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\obj\Debug\net7.0\SchoolExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\obj\Debug\net7.0\SchoolExample.AssemblyInfoInputs.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\obj\Debug\net7.0\SchoolExample.AssemblyInfo.cs
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\obj\Debug\net7.0\SchoolExample.csproj.CoreCompileInputs.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\obj\Debug\net7.0\SchoolExample.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\obj\Debug\net7.0\refint\SchoolExample.dll
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\obj\Debug\net7.0\SchoolExample.pdb
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\obj\Debug\net7.0\SchoolExample.genruntimeconfig.cache
+C:\Users\YILMAZ\Desktop\MY.TurkcellGelecegiYazanlar\Homework\SchoolExample\SchoolExample\obj\Debug\net7.0\ref\SchoolExample.dll
