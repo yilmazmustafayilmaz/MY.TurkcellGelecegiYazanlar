@@ -3,7 +3,7 @@ using System.Linq.Expressions;
 
 namespace SchoolExample.Core.Repositories;
 
-public interface IBaseRepository<TEntity> where TEntity : BaseEntity
+public interface IBaseRepository<TEntity> where TEntity : BaseEntity<short>
 {
     List<TEntity> GetAll();
     TEntity GetByFilter(Expression<Func<TEntity, bool>> filter);

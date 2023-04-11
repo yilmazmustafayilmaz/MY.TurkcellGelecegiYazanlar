@@ -4,7 +4,7 @@ using SchoolExample.Core.Repositories;
 
 namespace SchoolExample.Business.Rules;
 
-public class BusinessRules<TEntity> : IBusinessRules<TEntity> where TEntity : BaseEntity
+public class BusinessRules<TEntity> : IBusinessRules<TEntity> where TEntity : BaseEntity<short>
 {
     IBaseRepository<TEntity> _repository;
     public BusinessRules(IBaseRepository<TEntity> repository)

@@ -61,7 +61,7 @@ void Teacher()
         else if (vote is "2")
         {
             Console.Write("Id giriniz: ");
-            teacher.Id = int.Parse(Console.ReadLine());
+            teacher.Id = short.Parse(Console.ReadLine());
             Console.Write("Ad giriniz: ");
             teacher.Name = Console.ReadLine();
             Console.Write("Soyad giriniz: ");
@@ -102,7 +102,7 @@ void Student()
         else if (vote is "2")
         {
             Console.Write("Id giriniz: ");
-            student.Id = int.Parse(Console.ReadLine());
+            student.Id = short.Parse(Console.ReadLine());
             Console.Write("Ad giriniz: ");
             student.Name = Console.ReadLine();
             Console.Write("Soyad giriniz: ");
@@ -143,7 +143,7 @@ void Classroom()
         else if (vote is "2")
         {
             Console.Write("Id giriniz: ");
-            classroom.Id = int.Parse(Console.ReadLine());
+            classroom.Id = short.Parse(Console.ReadLine());
             Console.Write("Sınıf Adı giriniz: ");
             classroom.ClassName = Console.ReadLine();
             var added = classroomManager.Add(classroom);

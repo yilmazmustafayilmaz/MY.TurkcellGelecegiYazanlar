@@ -1,6 +1,6 @@
 ﻿namespace SchoolExample.Core.Entities;
 
-public abstract class BaseEntity
+public abstract class BaseEntity<TKey> where TKey : struct
 {
-    public int Id { get; set; }
+    public TKey Id { get; set; }
 }
